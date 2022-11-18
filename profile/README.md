@@ -1,6 +1,6 @@
-##LuxON Project
+## LuxON Project
 
-#Team Danuri
+# Team Danuri
 - 박세훈⭐
 - 김진우
 - 양준혁
